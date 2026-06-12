@@ -1,0 +1,6 @@
+name: RemoveEnderPearlDrops
+version: '${version}'
+
+main: lol.zym.removeEnderPearlDrops.RemoveEnderPearlDrops
+api-version: '1.21.8'
+load: POSTWORLD
